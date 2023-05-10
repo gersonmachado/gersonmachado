@@ -1,6 +1,6 @@
 <h2 style="border-bottom: 1px solid var(--color-border-muted);">
-Olá!
-Eu sou o Gerson Machado, estudante de Análise e Desenvolvimento de Sistemas!
+  <p>Olá!</p>
+  <p>Eu sou o <strong>Gerson Machado</strong>, estudante de Análise e Desenvolvimento de Sistemas!</p>
 </h2>
 
 
