@@ -9,7 +9,7 @@ Não deixe de dar uma olhada nos meus projetos!
   <img align="center" alt="G-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  
- ##­ 
+<h2 style="border-bottom: 1px solid var(--color-border-muted);"></h2>
  
 <div> 
   <a href="https://instagram.com/gersonmachado.mib" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
