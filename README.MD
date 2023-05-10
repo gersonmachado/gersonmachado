@@ -1,4 +1,5 @@
-## Olá, eu sou o Gerson Machado, estudante de Análise e Desenvolvimento de Sistemas!
+## Olá!
+## Eu sou o Gerson Machado, estudante de Análise e Desenvolvimento de Sistemas!
 
 Não deixe de dar uma olhada nos meus projetos!
 
