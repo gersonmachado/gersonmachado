@@ -1,5 +1,8 @@
-## Olá!
-## Eu sou o Gerson Machado, estudante de Análise e Desenvolvimento de Sistemas!
+<h2 style="border-bottom: 1px solid var(--color-border-muted);">
+Olá!
+Eu sou o Gerson Machado, estudante de Análise e Desenvolvimento de Sistemas!
+</h2>
+
 
 Não deixe de dar uma olhada nos meus projetos!
 
