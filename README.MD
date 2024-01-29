@@ -2,8 +2,7 @@
 <h2> Olá! Eu sou o <strong>Gerson Machado</strong> :) </h2>
 
 > [!TIP]
-> Curso: Análise e Desenvolvimento de Sistemas 
-> Período: (5/5) [Em andamento]
+> <p> Curso: Análise e Desenvolvimento de Sistemas </p> <p> Período: (5/5) [Em andamento] </p>
 
 
 <div style="margin: 5px;" align="center">
