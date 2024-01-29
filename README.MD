@@ -14,7 +14,7 @@
 
 </div>
 
-<div align="center" style="margin=1px;">
+<div align="center" style="margin=10px;">
 
   <div>
     <a href="https://github.com/gersonmachado">
