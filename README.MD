@@ -13,7 +13,7 @@
 
   </div>
 
- <div align="center">
+ <div align="center" style="margin=1px;">
 
   <div>
   <a href="https://github.com/gersonmachado">
