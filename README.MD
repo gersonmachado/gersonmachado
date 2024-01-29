@@ -1,11 +1,10 @@
-<h1>
-  Olá! Eu sou o <strong>Gerson Machado</strong> :)
-</h1>
+<div>
+<h1> Olá! Eu sou o <strong>Gerson Machado</strong> :) </h1>
 <p>Curso: Análise e Desenvolvimento de Sistemas (5/5) [Em andamento]<p>
- 
+</div>
 <h2 style="border-bottom: 1px solid var(--color-border-muted);"></h2>
 
-  <div style="margin-bottom: 1em;" align="center">
+  <div margin-bottom= "1em" align="center">
 
   <img align="center" alt="G-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="G-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
