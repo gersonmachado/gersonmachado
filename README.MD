@@ -1,4 +1,4 @@
-<h1 style="">
+<h1 style="border="none"">
   Olá! Eu sou o <strong>Gerson Machado</strong> :)
   <h4>Curso: Análise e Desenvolvimento de Sistemas (5/5) [Em andamento]</h4>
 </h1>
