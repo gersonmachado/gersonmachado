@@ -1,19 +1,20 @@
-<h1 style="border="none"">
+<h1 style="border=none;">
   Olá! Eu sou o <strong>Gerson Machado</strong> :)
   <h4>Curso: Análise e Desenvolvimento de Sistemas (5/5) [Em andamento]</h4>
 </h1>
  
 <h2 style="border-bottom: 1px solid var(--color-border-muted);"></h2>
 
+  <div style="margin-bottom: 1em;" align="center">
 
- <div align="center">
-  
-  <div style="margin-bottom: 1em;">
   <img align="center" alt="G-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="G-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="G-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="G-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
   </div>
+
+ <div align="center">
 
   <div>
   <a href="https://github.com/gersonmachado">
