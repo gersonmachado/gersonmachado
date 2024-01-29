@@ -1,5 +1,5 @@
 <!-- <h2 style="border-bottom: 1px solid var(--color-border-muted);"></h2> -->
-### Olá! Eu sou o <strong>Gerson Machado</strong> :) 🤖
+### Olá! Eu sou o <strong>Gerson Machado</strong> :) 🐍
 
 > [!TIP]
 > <p> Curso: Análise e Desenvolvimento de Sistemas </p> Período: 5/5
