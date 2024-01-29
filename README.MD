@@ -1,7 +1,9 @@
-<div>
+
 <h1> Olá! Eu sou o <strong>Gerson Machado</strong> :) </h1>
-<p>Curso: Análise e Desenvolvimento de Sistemas (5/5) [Em andamento]<p>
-</div>
+
+> [!NOTE]
+> Curso: Análise e Desenvolvimento de Sistemas (5/5) [Em andamento]
+
 <h2 style="border-bottom: 1px solid var(--color-border-muted);"></h2>
 
   <div style="margin: 1em;" align="center">
