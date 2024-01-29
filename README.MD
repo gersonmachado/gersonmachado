@@ -2,7 +2,7 @@
 <h2> Olá! Eu sou o <strong>Gerson Machado</strong> :) </h2>
 
 > [!TIP]
-> <p> Curso: Análise e Desenvolvimento de Sistemas </p>Período: <strong>5/5</strong> [Em andamento]
+> <p> Curso: Análise e Desenvolvimento de Sistemas </p> Período: <strong>5/5</strong> [Em andamento]
 
 
 <div style="margin: 5px;" align="center">
