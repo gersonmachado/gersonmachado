@@ -17,10 +17,11 @@
     <br>
     <img align="center" alt="G-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="G-Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
-<img style="filter: invert(100%);" align="center" alt="G-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain-wordmark.svg"> 
-<img align="center" alt="G-Python" height="30" width="40" src=""> 
-<img align="center" alt="G-Python" height="30" width="40" src=""> 
-<img align="center" alt="G-Python" height="30" width="40" src=""> 
+<img  align="center" alt="G-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg"> 
+<img align="center" alt="G-Selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg"> 
+<img align="center" alt="G-FastAPI" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg"> 
+<img align="center" alt="G-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"> 
+<img align="center" alt="G-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
     <img align="center" alt="G-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="G-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="G-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
