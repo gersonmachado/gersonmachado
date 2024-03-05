@@ -1,5 +1,6 @@
 <!-- <h2 style="border-bottom: 1px solid var(--color-border-muted);"></h2> -->
 ### Olá! Eu sou o <strong>Gerson Machado</strong> :) 🐍
+## Aspirante a fullstack, tenho conhecimentos variados. Curto análise de dados, processo ETL e desenvolvimento web.
 
 > [!TIP]
 > <p> Curso: Análise e Desenvolvimento de Sistemas </p> Período: 5/5
