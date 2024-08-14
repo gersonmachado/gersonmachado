@@ -3,7 +3,7 @@
 <p>Aspirante a fullstack, tenho conhecimentos variados. Gosto de análise de dados, processo ETL e desenvolvimento web.</p>
 
 > [!TIP]
-> <p> Curso: Análise e Desenvolvimento de Sistemas </p> Período: 5/5
+> <p> Curso: Análise e Desenvolvimento de Sistemas </p> Situação: Concluída
 
 
 <div align="center">
